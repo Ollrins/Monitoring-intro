@@ -98,7 +98,7 @@
 ## Задание 7
 
 <p align="center">
-  <img src="screenshots/S1.png" width="900"/>
+  <img src="src/S1.png" width="900"/>
   <br>
 
 </p>
@@ -106,7 +106,7 @@
 ## Задание 8
 
 <p align="center">
-  <img src="screenshots/S2.png" width="900"/>
+  <img src="src/S2.png" width="900"/>
   <br>
 
 </p>
@@ -114,7 +114,7 @@
 ## Задание 9
 
 <p align="center">
-  <img src="screenshots/S3.png" width="900"/>
+  <img src="src/S3.png" width="900"/>
   <br>
 
 </p>
